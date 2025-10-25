@@ -1,0 +1,58 @@
+h1 {
+  text-align: center;
+}
+
+h1 img {
+  width: 200px;
+  height: 250px;
+  border-radius: 46%;
+  object-fit: cover;
+  border: 3px solid #619695;
+  display: inline-block;
+}
+
+.card{
+    background-color: rgb(255, 255, 255);
+    border-radius: 10px;
+    box-shadow: 0 5px 8px
+}
+
+.card {
+    background-color: rgb(255, 255, 255);
+    border-radius: 10px;
+    box-shadow: 0 5px 8px rgba(0, 0, 0, 0.3);
+    width: 90%;            
+    margin: 25px auto;     
+    padding: 10px;         
+}
+.card h2{
+    background-color: rgb(72, 145, 120);
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    font-family: "Oswald", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    text-shadow: 1px 1px 0 #000;
+    font-size: large;
+}
+.card h3{
+    background-color: rgb(72, 145, 120);
+    border-top-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+    font-family: "Oswald", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    text-shadow: 1px 1px 0 #000;
+    font-size: large;
+}
+
+.card h4{
+    background-color: rgb(72, 145, 120);
+    border-top-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+    font-family: "Oswald", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    text-shadow: 1px 1px 0 #000;
+    font-size: large;
+}
